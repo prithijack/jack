@@ -1,0 +1,13 @@
+body{
+    background-image: url("file:///C:/Users/Public/Pictures/Sample Pictures/Lighthouse.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+   } 
+   ul{
+       text-align: left; 
+       color: rgb(36, 184, 97);
+       flex-direction: row;
+   }
+   nav{
+       text-emphasis-color: rgb(86, 145, 98);
+   }
